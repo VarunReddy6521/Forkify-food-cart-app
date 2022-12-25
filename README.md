@@ -1,3 +1,3 @@
 # forkify
 
-## A food delivery app.
+## food delivery app.
