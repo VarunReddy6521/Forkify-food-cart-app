@@ -1,3 +1,3 @@
-# Gursha
+# forkify
 
 ## A food delivery app.
